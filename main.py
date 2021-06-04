@@ -6,4 +6,4 @@ def experimental():
 
 
 def new_feature():
-    pass
+    print("완료")
