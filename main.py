@@ -7,3 +7,7 @@ def experimental():
 
 def new_feature():
     print("완료")
+
+
+def new():
+    print("new")
